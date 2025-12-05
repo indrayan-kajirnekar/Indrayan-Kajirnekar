@@ -26,15 +26,9 @@
 | **CI/CD** | Jenkins, GitHub Actions, GitLab CI |
 | **Containers** | Docker, Kubernetes, Helm |
 | **IaC** | Terraform, Ansible, CloudFormation |
-| **Monitoring** | Prometheus, Grafana, ELK Stack |
-| **Version Control** | Git, GitHub, GitLab |
-| **OS** | Linux (Ubuntu, CentOS), Windows Server |
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indrayankajirnekar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indrayankajirnekar&layout=compact&theme=tokyonight)
+| **Monitoring** | Prometheus, Grafana |
+| **Version Control** | Git, GitHub|
+| **OS** | Linux (RedHat, Ubuntu, CentOS), Windows Server |
 
 ---
 
@@ -54,6 +48,12 @@
 - **📍 Location:** Pune, India  
 - **📧 Email:** indrayanpk@hotmail.com  
 - **🗣️ Languages:** English, Hindi, Marathi
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indrayankajirnekar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indrayankajirnekar&layout=compact&theme=tokyonight)
 
 ---
 
