@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f14264b9-c133-4df8-a33b-622fd7f246a4" />
+
+
 # 👋 Hello, I'm Indrayan Kajirnekar
 
 🚀 **Cloud & DevOps Engineer | AWS Specialist | Infrastructure Architect**
