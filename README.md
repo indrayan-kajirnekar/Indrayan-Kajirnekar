@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Indrayan Kajirnekar  
-🚀 **AWS DevOps Engineer | Cloud Enthusiast | Automation Advocate**
+🚀 **AWS Cloud & DevOps Engineer | Kubernetes (EKS) | Terraform | CI/CD | Cloud & Infra Specialist**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
