@@ -51,12 +51,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indrayankajirnekar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indrayankajirnekar&layout=compact&theme=tokyonight)
-
----
-
 I'm always open to collaboration, learning, and contributing to exciting cloud and DevOps projects.  
 Feel free to connect or explore my repositories!
 
